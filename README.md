@@ -27,6 +27,10 @@ If you want to check it out, go to the directory where you want to clone it and 
 
 `node deploy.js` to deploy the Contract on the Rinkeby Test Network.
 
+## Deployed contract
+
+![Contract](https://i.imgur.com/7K1Nwtb.png)
+
 Let me know what you thought about it!
 
 Cheers,
